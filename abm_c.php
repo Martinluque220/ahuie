@@ -1,4 +1,5 @@
 <?php
+//este comentario es nuevo
 //include_once("libreria/motor.php");
 include_once("libreria/carteles.php");
 /*
